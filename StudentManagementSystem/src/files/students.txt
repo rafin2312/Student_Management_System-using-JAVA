@@ -1,0 +1,3 @@
+100,rafin,BSc,cse,12344,3.5
+101,rased,BA,BBA,1234,3.8
+103,rasel,BSc,cse,12344,3.2

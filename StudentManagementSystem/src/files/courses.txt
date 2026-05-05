@@ -1,0 +1,5 @@
+100,CSE101,Fundamental CSE,3
+100,ENG101,Basic English,3
+101,CSE102,Programming Language,3
+101,CSE103, Programming Language Lab,1101,cse105,advanced English,3
+100,CSE305,Image Processing,3
