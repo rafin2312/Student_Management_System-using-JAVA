@@ -325,6 +325,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-*© 2024 MD. Kamran Hasan Rafin — Southeast University, Department of CSE*
+*© 2026 MD. Kamran Hasan Rafin — Southeast University, Department of CSE*
 
 </div>
