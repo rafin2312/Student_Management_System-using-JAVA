@@ -279,7 +279,7 @@ git commit -m "feat: add your amazing feature"
 git push origin feature/your-feature-name
 ```
 
-> Please follow clean Java coding conventions, add comments where needed, and ensure your changes don't break existing functionality.
+> Please follow clean Java coding conventions add comments where needed and ensure your changes don't break existing functionality.
 
 ---
 
@@ -295,7 +295,7 @@ git push origin feature/your-feature-name
 
 | 🏷️ Field | 📋 Details |
 |:---|:---|
-| 👤 **Name** | MD. Kamran Hasan Rafin |
+| 👤 **Name** | MD.Kamran Hasan Rafin |
 | 🎓 **Student ID** | 2022000000066 |
 | 🏛️ **University** | Southeast University |
 | 📚 **Department** | Computer Science & Engineering (CSE) |
@@ -325,6 +325,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-*© 2026 MD. Kamran Hasan Rafin — Southeast University, Department of CSE*
+*© 2026 MD.Kamran Hasan Rafin — Southeast University, Department of CSE*
 
 </div>
